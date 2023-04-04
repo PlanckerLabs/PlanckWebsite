@@ -1,0 +1,140 @@
+{
+  "navigation": {
+    "PublicLayer": "公共层",
+    "PublicPool": "公共池",
+    "Product": "项目层",
+    "Pre-Research": "预研",
+    "Partner": "伙伴",
+    "Language": "语言"
+  },
+  "footer": {
+    "Partners": "的伙伴们:",
+    "Resource": "资源",
+    "UIKit": "UI Kit",
+    "Follow": "追踪",
+    "Telegram": "Telegram",
+    "Twitter": "Twitter",
+    "Discord": "Discord",
+    "Mirror": "Mirror",
+    "Notion": "Notion",
+    "Forum": "Forum",
+    "Govern": "治理",
+    "Contribution": "贡献",
+    "Dework": "Dework",
+    "Developer": "开发",
+    "Github": "Github",
+    "AboutPlancker": "关于 Plancker^",
+    "Seas": "四海社区",
+    "Content": "Plancker^ 是一个以太坊建设者的社区，我们为开发者，产品工程师，研究员提供社区和资源一起进行ETH生态共创。我们贡献自己的建设力量, 用区块链建设更美好的社会.",
+    "Onboarding": "Onboarding"
+  },
+  "banner": {
+    "Title": "共同支持和建设华语区的以太坊生态",
+    "Onboarding": "Onboarding"
+  },
+  "publiclayer": {
+    "Publiclayer": "公共层",
+    "Content1": "Plancker^ 生态内具有最高的正外部性和公共性的项目",
+    "VForVCult": "小V共读会",
+    "Content2": "小 V 栏目是一个跨社区常设栏目，旨在收集 Vitalik 参与编写的文章、EIP、访谈、演讲视频，进行产品、技术相关的讨论和翻译、研读、传播。目前，小 V 栏目的选题主要围绕 Vitalik 博客的文章。",
+    "Eco1": "大中华区",
+    "Eco2": "以太坊生态基金",
+    "Content3": "以太坊是一个充满活力的社区，并且大中华区有很多有潜力的项目和优秀的开发者。我们旨在通过捐赠促进以太坊社区更加多元和繁荣，同时支持更多去中心化贡献者建立自己的项目。我们欢迎所有帮助开发人员和研究人员的开源项目、开创性研究、公共产品和教育项目。",
+    "Daostar1": "Daostar",
+    "Daostar2": "共建小组",
+    "Content4": "Daostar 正在试图构建一个 DAO 之间的通行协议标准 EIP-4824，使得人们可以轻松地创建和维护 DAO 。而我们为此感到兴奋并着手参与共建，我们将会在中文区传播 Daostar 的协议和产品。"
+  },
+  "publicpool": {
+    "Publicpool": "公共池",
+    "Content1": "Plancker^ 正在探索的具有公共性的项目工作组",
+    "Guardian": "Guardian",
+    "Content2": "降低所有人获得公共 Guardian 服务的门槛",
+    "Bundler": "Bundler",
+    "Content3": "建立无需信任和许可的抽象账户 bundler 组件",
+    "EipsFun": "Eips Fun",
+    "Content4": "让 EIP 的学习和使用更加简单和有趣",
+    "Scaffold": "Scaffold",
+    "Content5": "黑客松入门工具武器库",
+    "CryptoThought": "加密思潮",
+    "Content6": "共学共建加密思潮",
+    "EthDeSocialNetwork": "Eth DeSocial Network",
+    "Content7": "探索以太坊的去中心化社交网络生态",
+    "ETHHackathonTeamService": "ETH Hackathon",
+    "Content8": "组建队伍线线下参与 ETH 生态的 Hackson 活动",
+    "Seas": "四海社区",
+    "Content9": "由加密游牧们从泰国清迈开始建立的去中心化初创社会"
+  },
+  "poject": {
+    "Product": "产品",
+    "Content1": "来自 Plancker^ 的产品/ Plancker^ 参与建设的产品",
+    "SoulWallet": "SoulWallet",
+    "Content2": "SoulWallet 是一款基于 ERC-4337 合约开发的账户抽象钱包。SoulWallet 2022年十月初完成 PoC，在 ETHGlobal Bogota 全球盛会中一举拿下了 Ethereum Foundation AA（Account Abstraction）第一名。账户抽象，暂时还是一种令人期待、有待实现的技术方案。而 SoulWallet 就是这样一款支持 ERC-4337 的浏览器钱包，因此也具有更安全的特性，能适应更丰富的生态，将实现用户安全和体验上的双重升级。",
+    "Press": "新闻",
+    "Content3": "SoulWallet 在 ETHGlobal Bogota 2022 荣获 Ethereum Foundation AA（Account Abstraction）第一名。",
+    "Contributor": "建设者"
+  },
+  "dework": {
+    "Onboarding": "Onboarding Plancker^",
+    "Create": "共同支持和建设华语区的以太坊生态",
+    "Dework": "Dework",
+    "PlanckerMap": "地图",
+    "Title1": "在 Plancker^ 你可以得到",
+    "Title1_Item1": "在 Plancker^ 你可以得到丰厚但也不失合理的 Bounty 金额。 ",
+    "Title1_Item2": "一帮乐于分享、温馨、专业素质极高的小伙伴。",
+    "Title1_Item3": "一个鼓励自由表达、鼓励吹牛、鼓励聊理想、鼓励辩论和质疑的平等的社区一次个人曝光的机会，我们也愿意提供我们力所能及的资源去成就你个人品牌。彼此成就，发光发热。",
+    "Title1_Item4": "一个参与建设去中心化社会的机会。",
+    "Title1_Item5": "一个去宇宙探索、去四海航行的 Crypto Nomad 自由无拘束的生活方式。一次构建链上声誉的机会。",
+    "Title2": "我们希望你是",
+    "Title2_Item1": "希望你是热爱 Web3，热爱以太坊，热爱自由，充满理想的人。",
+    "Title2_Item2": "希望你会主动了解 Plancker 社区，氛围、价值观，与我们一起参与活动，参与公共建设～",
+    "Title2_Item3": "我们支持开源开放精神"
+  },
+  "roles": {
+    "Content1": "如果你是 开发者、产品工程师、研究员 、运营 ，且对以太坊生态感兴趣，或者想要融入以太坊生态，我们期待你的 onboarding，成为建设者成员，与Plancker^ 共同成长 。",
+    "HowToBe": "如何成为",
+    "Observer": "社区观察者",
+    "Member": "普通成员",
+    "CoreBuilder": "核心建设者",
+    "CoreContributor": "核心贡献者",
+    "ObserverObject": {
+      "Bar1": "产出（讲座、活动、周会、提案研究等）输出给社会，有一定正外部性。",
+      "Bar2": "吸引关注相同话题的社会相关人才，来一起探讨和研究，Onboarding的前奏。"
+    },
+    "MemberObject": {
+      "Bar1": "写**成员表单**",
+      "Bar2": "加入和关注社交媒体",
+      "Bar3": "联系社区成员加入JFV微信群",
+      "Bar4": "至少参与一次社区周会",
+      "Bar5": "参与社区新人闲聊会（Onboarding Call）",
+      "Bar6": "阅读关于社区 以及FAQs",
+      "Bar7": "领取社区任务和报名建设者招募 进行贡献。",
+      "Bar8": "在Discord #自我介绍 频道做自我介绍"
+    },
+    "CoreBuilderObject": {
+      "Bar1": "小组/项目负责人一对一谈话，参与小组建设",
+      "Bar2": "申请相应小组/项目的 Notion 页面权限",
+      "Bar3": "整体浏览社区Notion，了解社区文化",
+      "Bar4": "对社区的使命、愿景与价值观，能够理解并表述，对社区年度/Q的战略方向了解并有直接参与OKR",
+      "Bar5": "申请Edit权限，将信息添加至成员名单",
+      "Bar6": "发起一个提案（可选）",
+      "Bar7": "主持一场周会（可选）"
+    },
+    "CoreObject": {
+      "Bar1": "主持一场周会",
+      "Bar2": "发起一个提案",
+      "Bar3": "追溯历史：对社区高度契合、符合社区发展愿景、有贡献历史",
+      "Bar4": "做出承诺：对为社区建设有长期性计划、并能做出相应承诺（贡献时长）",
+      "Bar5": "激励：级别足够进入Core，并且有长期持续参与社区某些领域的建设，匹配了激励机制"
+    }
+  },
+  "preresearch": {
+    "PreResearchGroup": "预研小组",
+    "Content1": "正在进行研究且有可能成为普朗克生态支持的产品",
+    "Recursive": "Recursive",
+    "Content2": "Recursive是一个专门针对以太坊Layer2设计的bundler组件，主要用于接受，验证，发送智能合约钱包或第三方发送的交易，是账户抽象中不可或缺的一部分。",
+    "Xhash": "Xhash",
+    "Content3": "我们探索一种以原生的以太坊质押做为抵押品的RAI-like稳定币，消除因引入LSD代币而产生的潜在风险，又让使用者获得以太坊质押的收益，同时通过DVT技术来实现去中心化，使其成为真正的以太坊生态需要的去中心化算法稳定币，也就是去中心化银行。",
+    "RemixChina": "Remix China",
+    "Content4": "帮助中文用户更好的使用 Remix IDE"
+  }
+}

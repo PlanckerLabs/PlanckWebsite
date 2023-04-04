@@ -1,0 +1,140 @@
+{
+  "navigation": {
+    "PublicLayer": "Public Layer",
+    "PublicPool": "Public Pool",
+    "Product": "Product",
+    "Pre-Research": "Research",
+    "Partner": "Partner",
+    "Language": "Language"
+  },
+  "footer": {
+    "Partners": "Partners:",
+    "Resource": "Resource",
+    "UIKit": "UI Kit",
+    "Follow": "Follow",
+    "Telegram": "Telegram",
+    "Twitter": "Twitter",
+    "Discord": "Discord",
+    "Mirror": "Mirror",
+    "Notion": "Notion",
+    "Forum": "Forum",
+    "Govern": "govern",
+    "Contribution": "Contribution",
+    "Dework": "Dework",
+    "Developer": "Developer",
+    "Github": "Github",
+    "AboutPlancker": "About Plancker^",
+    "Seas": "4 Seas",
+    "Content": "Plancker^ is a group of engineers, reseachers, and product designers from Asia dedicated to building the Ethereum eco in the Great China",
+    "Onboarding": "Onboarding"
+  },
+  "banner": {
+    "Title": "Buidl & Support the Ethereum Eco in Greater China",
+    "Onboarding": "Onboarding"
+  },
+  "publiclayer": {
+    "Publiclayer": "Public Layer",
+    "Content1": "Public goods projects with the most positive externalities within the Plancker ^ ecosystem",
+    "VForVCult": "V For V_Cult",
+    "Content2": "V For V_Cult is a cross-community project that collects articles, EIPs, interviews, and speeches co-authored by Vitalik, works on their translations, hosts product- and tech-related learning sessions, and evangelizes the core thinkings of Ethereum. ",
+    "Eco1": "Greater china",
+    "Eco2": "Community Eco",
+    "Content3": "Ethereum is a vibrant community and there are many promising projects and excellent developers in Greater China. We aim to promote a more diverse and prosperous Ethereum community through donations, while supporting more decentralized contributors to build their own projects. We welcome all open source projects, groundbreaking research, public goods products and educational projects that help developers and researchers.",
+    "Daostar1": "Daostar",
+    "Daostar2": "Builder Group",
+    "Content4": "Daostar and Plancker^ are co-building a standard EIP-4824 protocol for cross-DAO communications, making it easy to create and maintain DAOs. We will help with the protocol's distribution in Asia."
+  },
+  "publicpool": {
+    "Publicpool": "Public Pool",
+    "Content1": "Plancer^'s exploratory workstreams in public goods",
+    "Guardian": "Guardian",
+    "Content2": "Lower the barrier of access to public Guardian services for everyone",
+    "Bundler": "Bundler",
+    "Content3": "Create account abstraction bundler components that are trustless and permissionless",
+    "EipsFun": "Eips Fun",
+    "Content4": "Make learning and using EIP easier and more fun",
+    "Scaffold": "Scaffold",
+    "Content5": "Hackathon entry tool Arsenal",
+    "CryptoThought": "CryptoThought",
+    "Content6": "Learn and build Crypto Thought together",
+    "EthDeSocialNetwork": "Eth DeSocial Network",
+    "Content7": "Explore decentralized social networks in Ethereum eco",
+    "ETHHackathonTeamService": "ETH Hackathon",
+    "Content8": "Facilitate offline team formation to participate in ETH hackathons",
+    "Seas": "4 Seas",
+    "Content9": "A decentralized start-up society by crypto nomads, first hub in Chiangmai, Thailand."
+  },
+  "poject": {
+    "Product": "Product",
+    "Content1": "Products from Plancker ^",
+    "SoulWallet": "SoulWallet",
+    "Content2": "Soulwallet is an account abstraction wallet based on the ERC-4337 contract. Soulwallet completed the POC in October 2022, taking first place in the Ethereum Foundation AA (Account Abstraction) at ETHGlobal Bogota. Soulwallet is a browser extension wallet that supports ERC-4337, a secure solution that can plug into a rich and diverse ecosystem without compromising the user experience.",
+    "Press": "Press",
+    "Content3": "SoulWallet won the first place of Ethereum Foundation AA (Account Abstraction) at ETHGlobal Bogota 2022.",
+    "Contributor": "Contributor"
+  },
+  "dework": {
+    "Onboarding": "Onboarding Plancker^",
+    "Create": "Buidl & Support the Ethereum eco in Great China,",
+    "Dework": "Dework",
+    "PlanckerMap": "MAP",
+    "Title1": "In Plancker^ you can get",
+    "Title1_Item1": "At Plancker^ you can get a generous but not unreasonable amount of Bounty money.",
+    "Title1_Item2": "A  group of people who are willing to share, warm and of great professional quality.",
+    "Title1_Item3": "A community of equals that encourages free expression, bragging, ideals, debate and questioning, an opportunity for personal exposure, and we are willing to provide the resources within our reach to achieve your personal brand.  Achievement for each other, shine.",
+    "Title1_Item4": "An opportunity to participate in building a decentralized society.",
+    "Title1_Item5": "A Crypto Nomad free and unfettered lifestyle to explore the universe and sail the four seas. A chance to build a reputation on the chain.",
+    "Title2": "We hope you are",
+    "Title2_Item1": "We hope you are a person who loves Web3, loves Ether, loves freedom, and is full of ideals.",
+    "Title2_Item2": "We hope you will take the initiative to get to know the Plancker community, its atmosphere, its values, and participate in activities and public building with us ~",
+    "Title2_Item3": "We support the open source spirit"
+  },
+  "roles": {
+    "Content1": "If you are a developer, product engineer, researcher, or operator who's interested in the Ethereum ecosystem and wants to participate, we look forward to onboarding you to grow with Plancker ^ .",
+    "HowToBe": "How to become a ",
+    "Observer": "Observer",
+    "Member": "Member",
+    "CoreBuilder": "CoreBuilder",
+    "CoreContributor": "Core Contributor",
+    "ObserverObject": {
+      "Bar1": "The output (lectures, events, weekly meetings, proposal research, etc.) has a certain positive externality on society.",
+      "Bar2": "Attracting socially relevant talents who are interested in the same topic to explore and research together, as a prelude to onboarding."
+    },
+    "MemberObject": {
+      "Bar1": "Fill out **Membership Form**",
+      "Bar2": "Join and follow social media",
+      "Bar3": "Contact community members to join the JFV WeChat group",
+      "Bar4": "Participate in at least one weekly community meeting",
+      "Bar5": "Participate in Onboarding Call",
+      "Bar6": "Read about the community and FAQs",
+      "Bar7": "Pick up community tasks and sign up for builder recruitment to contribute",
+      "Bar8": "Introduce yourself on the Discord #IntroduceYourself channel"
+    },
+    "CoreBuilderObject": {
+      "Bar1": "One-on-one conversation with the team/project leader to participate in group construction.",
+      "Bar2": "Apply for Notion page permissions for the corresponding group/project.",
+      "Bar3": "Have an overall understanding of the community culture by browsing through the community Notion.",
+      "Bar4": "Understand and articulate the community's mission, vision, and values, and have direct involvement in the annual/Q strategic direction through OKRs.",
+      "Bar5": "Apply for Edit permissions and add information to the member list.",
+      "Bar6": "Initiate a proposal (optional).",
+      "Bar7": "Host a weekly meeting (optional)."
+    },
+    "CoreObject": {
+      "Bar1": "Host a weekly meeting.",
+      "Bar2": "Initiate a proposal.",
+      "Bar3": "Trace the history: having a high level of alignment with the community, meeting the community's development vision, and having a contribution history.",
+      "Bar4": "Make a commitment: having a long-term plan for community building and being able to make corresponding commitments (contribution duration).",
+      "Bar5": "Incentivize: reaching a high enough level to enter Core, and having long-term and continuous participation in the development of certain areas of the community, matching the incentive mechanism."
+    }
+  },
+  "preresearch": {
+    "PreResearchGroup": "Research Group",
+    "Content1": "Research and discover potential product for Plancker^",
+    "Recursive": "Recursive",
+    "Content2": "Recursive is a bundler component designed to accept, validate, and send transactions from smart contract wallets or third parties. Recursive is an integral part of account abstraction.",
+    "Xhash": "Xhash",
+    "Content3": "We are exploring a RAI-like stablecoin that uses native Ethereum staking as collateral, eliminating potential risks associated with introducing the LSD token, while allowing users to earn rewards from Ethereum staking. Through the use of DVT technology, we aim to create a truly decentralized algorithmic stablecoin that meets the needs of the Ethereum ecosystem, i.e., a decentralized bank.",
+    "RemixChina": "Remix China",
+    "Content4": "Help Chinese users use Remix IDE more effectively"
+  }
+}
