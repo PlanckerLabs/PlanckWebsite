@@ -42,8 +42,13 @@ export default {
           <div class="flex">
             <p>GCC Eco</p>
           </div>
-          <div class="flex">
-            <p>LxDao</p>
+          <div class="flex items-center justify-cente">
+            <img
+              class="w-10 h-10"
+              src="@/assets/images/plocker-footer-LXDAO.svg"
+              alt="LXDAO"
+            />
+            <p>LXDAO</p>
           </div>
         </div>
         <div
@@ -85,7 +90,11 @@ export default {
               <li>
                 <a href="https://forum.plancker.org/" target="_blank">Forum</a>
               </li>
-              <li>SOP</li>
+              <li>
+                <a href="https://snapshot.org/#/plancker.eth" target="_blank"
+                  >Snapshot</a
+                >
+              </li>
             </ul>
           </div>
           <div class="flex-col">
@@ -98,6 +107,8 @@ export default {
                   {{ $t("footer.Content") }}
                 </p>
               </li>
+            </ul>
+            <ul class="text-lg list-disc">
               <li style="line-height: 4em">
                 <router-link to="/joinus">{{
                   $t("footer.Onboarding")
@@ -117,22 +128,32 @@ export default {
         <div
           class="grid justify-center grid-flow-col grid-rows-1 py-10 text-xl border-b-2 gap-11 border-slate-600 max-[500px]:gap-5 max-[500px]:text-sm"
         >
-          <div class="flex">
+          <div class="flex items-center justify-cente">
             <img
+              class="w-8 h-8"
               src="@/assets/images/polcker-footer-greenPill.svg"
               alt="greePill"
             />
             <p class="pl-2">GreenPill CN</p>
           </div>
-          <div class="flex">
-            <img src="@/assets/images/polcker-footer-four.svg" alt="4 SEAS" />
+          <div class="flex items-center justify-cente">
+            <img
+              class="w-8 h-8"
+              src="@/assets/images/polcker-footer-four.svg"
+              alt="4 SEAS"
+            />
             <p class="pl-2">{{ $t("footer.Seas") }}</p>
           </div>
           <div class="flex">
             <p>GCC Eco</p>
           </div>
-          <div class="flex">
-            <p>LxDao</p>
+          <div class="flex items-center justify-cente">
+            <img
+              class="w-8 h-8"
+              src="@/assets/images/plocker-footer-LXDAO.svg"
+              alt="LXDAO"
+            />
+            <p>LXDAO</p>
           </div>
         </div>
         <div
@@ -188,17 +209,33 @@ export default {
               />
             </a>
           </div>
+          <div class="flex">
+            <a href="https://forum.plancker.org/" target="_blank">
+              <img
+                class="w-14 h-14"
+                src="@/assets/images/forum.png"
+                alt="forum"
+              />
+            </a>
+          </div>
+          <div class="flex">
+            <a href="https://snapshot.org/#/plancker.eth" target="_blank">
+              <img
+                class="w-14 h-14"
+                src="@/assets/images/favicon.webp"
+                alt="snapshot"
+              />
+            </a>
+          </div>
         </div>
-        <div
-          class="grid items-start justify-center grid-flow-col grid-rows-1 gap-20 mt-10 text-xl text-center max-[500px]:text-sm"
-        >
+        <div>
           <div class="flex-col">
             <h6 class="mb-5 font-extrabold">
               {{ $t("footer.AboutPlancker") }}
             </h6>
             <ul class="text-lg max-[500px]:text-sm">
               <li>
-                <p style="padding-top: 5px; width: 34rem">
+                <p style="padding-top: 5px">
                   {{ $t("footer.Content") }}
                 </p>
               </li>

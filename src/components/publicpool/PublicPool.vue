@@ -67,12 +67,15 @@ export default {
 
 <template>
   <!-- Projects grid -->
-  <section id="PublicPool" class="pt-10 pb-5 sm:pt-14">
-    <div class="flex mb-10">
-      <h1 class="pl-5 text-3xl font-extrabold">
+
+  <section id="PublicPool" class="pt-10 pb-5 text-left sm:pt-14">
+    <div class="flex mb-10 max-[782px]:flex-col max-[782px]:px-5">
+      <h1 class="min-[781px]:pl-5 text-3xl font-extrabold">
         {{ $t("publicpool.Publicpool") }}
       </h1>
-      <span class="flex items-center justify-center pl-6">
+      <span
+        class="flex items-center justify-center min-[781px]:pl-6 max-[781px]:mt-3"
+      >
         {{ $t("publicpool.Content1") }}
       </span>
     </div>

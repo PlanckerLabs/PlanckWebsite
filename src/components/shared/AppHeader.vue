@@ -1,44 +1,19 @@
 <script>
 import ThemeSwitcher from "../ThemeSwitcher";
-//import HireMeModal from "../HireMeModal.vue";
+
 import feather from "feather-icons";
 import AppHeaderLinks from "./AppHeaderLinks.vue";
-//import Button from "../reusable/Button.vue";
 
 export default {
   components: {
     ThemeSwitcher,
-    //HireMeModal,
     AppHeaderLinks,
-    //Button,
   },
   data() {
     return {
       isOpen: false,
       theme: "",
       modal: false,
-      categories: [
-        {
-          id: 1,
-          value: "web",
-          name: "Web Application",
-        },
-        {
-          id: 2,
-          value: "mobile",
-          name: "Mobile Application",
-        },
-        {
-          id: 3,
-          value: "ui-ux",
-          name: "UI/UX Design",
-        },
-        {
-          id: 4,
-          value: "branding",
-          name: "Branding & Anim",
-        },
-      ],
     };
   },
 
@@ -53,20 +28,6 @@ export default {
     updateTheme(theme) {
       this.theme = theme;
     },
-    showModal() {
-      if (this.modal) {
-        // Stop screen scrolling
-        document
-          .getElementsByTagName("html")[0]
-          .classList.remove("overflow-y-hidden");
-        this.modal = false;
-      } else {
-        document
-          .getElementsByTagName("html")[0]
-          .classList.add("overflow-y-hidden");
-        this.modal = true;
-      }
-    },
   },
   updated() {
     feather.replace();
@@ -75,7 +36,7 @@ export default {
 </script>
 
 <template>
-  <nav
+  <section
     id="nav"
     class="min-[500px]:mx-10 2xl:container 2xl:mx-auto max-w-screen-2xl"
   >
@@ -91,18 +52,6 @@ export default {
               class="w-36"
               alt="Light Logo"
             />
-            <!-- <img
-              v-if="theme === 'light'"
-              src="@/assets/images/logo-dark.svg"
-              class="w-36"
-              alt="Dark Logo"
-            />
-            <img
-              v-else
-              src="@/assets/images/logo-light.svg"
-              class="w-36"
-              alt="Light Logo"
-            /> -->
           </router-link>
         </div>
 
@@ -143,22 +92,12 @@ export default {
       </div>
 
       <!-- Header links -->
-      <AppHeaderLinks :showModal="showModal" :isOpen="isOpen" />
+      <AppHeaderLinks :isOpen="isOpen" />
 
       <!-- Header right section buttons -->
       <div
         class="flex-col items-center justify-between hidden sm:flex md:flex-row"
       >
-        <!-- Hire me button -->
-        <!-- <div class="hidden md:block">
-          <Button
-            title="Hire Me"
-            class="text-md font-general-medium bg-indigo-500 hover:bg-indigo-600 text-white shadow-sm rounded-md px-5 py-2.5 duration-300"
-            @click="showModal()"
-            aria-label="Hire Me Button"
-          />
-        </div> -->
-
         <!-- Theme switcher large screen -->
         <theme-switcher
           :theme="theme"
@@ -167,15 +106,7 @@ export default {
         />
       </div>
     </div>
-
-    <!-- Hire me modal -->
-    <!-- <HireMeModal
-      :showModal="showModal"
-      :modal="modal"
-      :categories="categories"
-      aria-modal="Hire Me Modal"
-    /> -->
-  </nav>
+  </section>
 </template>
 
 <style scoped>

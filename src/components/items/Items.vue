@@ -36,11 +36,13 @@ export default {
       </div>
     </div>
     <div class="min-[1023px]:hidden pt-10">
-      <div class="flex mb-3 min-[781px]:mb-10">
+      <div class="flex mb-3 min-[781px]:mb-10 max-[782px]:flex-col text-left">
         <h1 class="pl-5 text-3xl font-extrabold">
           {{ $t("poject.Product") }}
         </h1>
-        <span class="flex items-end justify-center pb-1 pl-6">
+        <span
+          class="flex items-end justify-center max-[782px]:justify-start pb-1 pl-6 max-[781px]:mt-3"
+        >
           {{ $t("poject.Content1") }}
         </span>
       </div>

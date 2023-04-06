@@ -25,11 +25,13 @@ export default {
       );
     "
   >
-    <div class="flex mb-3 min-[781px]:mb-10">
-      <h1 class="pl-5 text-3xl font-extrabold">
+    <div class="flex mb-3 max-[782px]:flex-col text-left min-[781px]:mb-10">
+      <h1 class="min-[781px]:pl-5 text-3xl font-extrabold">
         {{ $t("publiclayer.Publiclayer") }}
       </h1>
-      <span class="flex items-end justify-center pb-1 pl-6">
+      <span
+        class="flex items-end justify-center pb-1 min-[781px]:pl-6 max-[781px]:mt-3"
+      >
         {{ $t("publiclayer.Content1") }}
       </span>
     </div>

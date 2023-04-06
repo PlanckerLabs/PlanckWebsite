@@ -64,19 +64,34 @@ export default {
       </router-link>
       <div
         v-if="!placeholder"
-        class="absolute justify-between hidden w-48 text-white min-[781px]:flex ml-14 bottom-5"
+        class="absolute flex justify-between w-48 text-white ml-14 max-[781px]:ml-10 bottom-5"
       >
         <a href="https://plancker.notion.site/" target="_blank">
-          <img src="@/assets/images/plocker-banner-notion.svg" alt="notion" />
+          <img
+            class="max-[781px]:h-5 max-[781px]:w-5"
+            src="@/assets/images/plocker-banner-notion.svg"
+            alt="notion"
+          />
         </a>
         <a href="https://twitter.com/PlanckerDao" target="_blank"
-          ><img src="@/assets/images/plocker-banner-twitter.svg" alt="twitter"
+          ><img
+            class="max-[781px]:h-5 max-[781px]:w-5"
+            src="@/assets/images/plocker-banner-twitter.svg"
+            alt="twitter"
         /></a>
         <a href="https://discord.com/invite/v59KDSgqFu" target="_blank">
-          <img src="@/assets/images/plocker-banner-discord.svg" alt="discord" />
+          <img
+            class="max-[781px]:h-5 max-[781px]:w-5"
+            src="@/assets/images/plocker-banner-discord.svg"
+            alt="discord"
+          />
         </a>
         <a href="https://forum.plancker.org/" target="_blank">
-          <img src="@/assets/images/plocker-banner-f.svg" alt="f" />
+          <img
+            class="max-[781px]:h-5 max-[781px]:w-5"
+            src="@/assets/images/plocker-banner-f.svg"
+            alt="f"
+          />
         </a>
       </div>
     </div>
