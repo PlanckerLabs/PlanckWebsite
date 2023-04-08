@@ -74,7 +74,7 @@ export default {
         {{ $t("publicpool.Publicpool") }}
       </h1>
       <span
-        class="flex items-center justify-center min-[781px]:pl-6 max-[781px]:mt-3"
+        class="flex items-end justify-center max-[781px]:justify-start pb-1 min-[781px]:pl-6 max-[781px]:mt-3"
       >
         {{ $t("publicpool.Content1") }}
       </span>
@@ -90,8 +90,8 @@ export default {
           :style="setbgcolor(item.titleColor)"
         >
           <h6 class="max-[500px]:text-sm">{{ $t(item.title) }}</h6>
-          <i data-feather="chevron-right" class="group-hover:text-green-400">
-          </i>
+          <!-- <i data-feather="chevron-right" class="group-hover:text-green-400">
+          </i> -->
         </div>
         <div class="py-10 px-5 text-left max-[500px]:text-sm">
           {{ $t(item.content) }}

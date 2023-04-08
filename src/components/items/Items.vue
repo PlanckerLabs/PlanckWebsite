@@ -80,7 +80,9 @@ export default {
         </div>
         <div class="flex justify-around w-full py-5 border-b border-black">
           <div class="flex items-center text-lg xl:text-2xl">
-            <div class="px-12 border-r border-black max-[500px]:px-1">
+            <div
+              class="px-12 border-r border-black max-[623px]:px-3 max-[500px]:px-1"
+            >
               <a
                 class="flex items-center max-[500px]:flex-col"
                 href="https://twitter.com/zengjiajun_eth"
@@ -90,7 +92,9 @@ export default {
                 <p class="pl-3">JiaJun</p>
               </a>
             </div>
-            <div class="px-12 border-r border-black max-[500px]:px-1">
+            <div
+              class="px-12 border-r border-black max-[623px]:px-3 max-[500px]:px-1"
+            >
               <a
                 class="flex items-center max-[500px]:flex-col"
                 href="https://twitter.com/jhfnetboy"
@@ -100,7 +104,7 @@ export default {
                 <p class="pl-3">Jhfnetboy</p>
               </a>
             </div>
-            <div class="px-12 max-[500px]:px-1">
+            <div class="px-12 max-[623px]:px-3 max-[500px]:px-1">
               <a
                 class="flex items-center max-[500px]:flex-col"
                 href="https://twitter.com/cejay519"

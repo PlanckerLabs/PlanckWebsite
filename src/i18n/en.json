@@ -23,9 +23,9 @@
     "Dework": "Dework",
     "Developer": "Developer",
     "Github": "Github",
-    "AboutPlancker": "About Plancker^",
+    "AboutPlancker": "About Plancker",
     "Seas": "4 Seas",
-    "Content": "Plancker^ is a group of engineers, reseachers, and product designers from Asia dedicated to building the Ethereum eco in the Great China",
+    "Content": "Plancker is a group of engineers, reseachers, and product designers from Asia dedicated to building the Ethereum eco in the Great China",
     "Onboarding": "Onboarding"
   },
   "banner": {
@@ -34,7 +34,7 @@
   },
   "publiclayer": {
     "Publiclayer": "Public Layer",
-    "Content1": "Public goods projects with the most positive externalities within the Plancker ^ ecosystem",
+    "Content1": "Public goods projects with the most positive externalities within the Plancker ecosystem",
     "VForVCult": "V For V_Cult",
     "Content2": "V For V_Cult is a cross-community project that collects articles, EIPs, interviews, and speeches co-authored by Vitalik, works on their translations, hosts product- and tech-related learning sessions, and evangelizes the core thinkings of Ethereum. ",
     "Eco1": "Greater China",
@@ -42,11 +42,11 @@
     "Content3": "Ethereum is a vibrant community and there are many promising projects and excellent developers in Greater China. We aim to promote a more diverse and prosperous Ethereum community through donations, while supporting more decentralized contributors to build their own projects. We welcome all open source projects, groundbreaking research, public goods products and educational projects that help developers and researchers.",
     "Daostar1": "Daostar ",
     "Daostar2": "Builder Group",
-    "Content4": "Daostar and Plancker^ are co-building a standard EIP-4824 protocol for cross-DAO communications, making it easy to create and maintain DAOs. We will help with the protocol's distribution in Asia."
+    "Content4": "Daostar and Plancker are co-building a standard EIP-4824 protocol for cross-DAO communications, making it easy to create and maintain DAOs. We will help with the protocol's distribution in Asia."
   },
   "publicpool": {
     "Publicpool": "Public Pool",
-    "Content1": "Plancer^'s exploratory workstreams in public goods",
+    "Content1": "Plancer's exploratory workstreams in public goods",
     "Guardian": "Guardian",
     "Content2": "Lower the barrier of access to public Guardian services for everyone",
     "Bundler": "Bundler",
@@ -66,7 +66,7 @@
   },
   "poject": {
     "Product": "Product",
-    "Content1": "Products from Plancker ^",
+    "Content1": "Products from Plancker ",
     "SoulWallet": "SoulWallet",
     "Content2": "Soulwallet is an account abstraction wallet based on the ERC-4337 contract. Soulwallet completed the POC in October 2022, taking first place in the Ethereum Foundation AA (Account Abstraction) at ETHGlobal Bogota. Soulwallet is a browser extension wallet that supports ERC-4337, a secure solution that can plug into a rich and diverse ecosystem without compromising the user experience.",
     "Press": "Press",
@@ -74,12 +74,12 @@
     "Contributor": "Contributor"
   },
   "dework": {
-    "Onboarding": "Onboarding Plancker^",
+    "Onboarding": "Onboarding Plancker",
     "Create": "Buidl & Support the Ethereum eco in Great China,",
     "Dework": "Dework",
     "PlanckerMap": "MAP",
-    "Title1": "In Plancker^ you can get",
-    "Title1_Item1": "At Plancker^ you can get a generous but not unreasonable amount of Bounty money.",
+    "Title1": "In Plancker you can get",
+    "Title1_Item1": "At Plancker you can get a generous but not unreasonable amount of Bounty money.",
     "Title1_Item2": "A  group of people who are willing to share, warm and of great professional quality.",
     "Title1_Item3": "A community of equals that encourages free expression, bragging, ideals, debate and questioning, an opportunity for personal exposure, and we are willing to provide the resources within our reach to achieve your personal brand.  Achievement for each other, shine.",
     "Title1_Item4": "An opportunity to participate in building a decentralized society.",
@@ -90,7 +90,7 @@
     "Title2_Item3": "We support the open source spirit"
   },
   "roles": {
-    "Content1": "If you are a developer, product engineer, researcher, or operator who's interested in the Ethereum ecosystem and wants to participate, we look forward to onboarding you to grow with Plancker ^ .",
+    "Content1": "If you are a developer, product engineer, researcher, or operator who's interested in the Ethereum ecosystem and wants to participate, we look forward to onboarding you to grow with Plancker  .",
     "HowToBe": "How to become a ",
     "Observer": "Observer",
     "Member": "Member",
@@ -129,7 +129,7 @@
   },
   "preresearch": {
     "PreResearchGroup": "Research Group",
-    "Content1": "Research and discover potential product for Plancker^",
+    "Content1": "Research and discover potential product for Plancker",
     "Recursive": "Recursive",
     "Content2": "Recursive is a bundler component designed to accept, validate, and send transactions from smart contract wallets or third parties. Recursive is an integral part of account abstraction.",
     "Xhash": "Xhash",
