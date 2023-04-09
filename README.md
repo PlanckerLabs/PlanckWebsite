@@ -5,7 +5,7 @@
 
 ## Demo URL
 
-[Demo](https://super-travesseiro-bd67ef.netlify.app/)
+[Demo](https://plancker.org/)
 ## Web Design
 [Design](https://www.figma.com/file/iHd4J7XTpDNMFFEsqcnyVd/Plancker--web-design?node-id=0%3A1&t=juVaXsPAUqWXHqTu-1)
 ## Features

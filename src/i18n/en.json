@@ -40,13 +40,13 @@
     "Eco1": "Greater China",
     "Eco2": "Community Eco",
     "Content3": "Ethereum is a vibrant community and there are many promising projects and excellent developers in Greater China. We aim to promote a more diverse and prosperous Ethereum community through donations, while supporting more decentralized contributors to build their own projects. We welcome all open source projects, groundbreaking research, public goods products and educational projects that help developers and researchers.",
-    "Daostar1": "Daostar ",
+    "Daostar1": "DAOstar ",
     "Daostar2": "Builder Group",
-    "Content4": "Daostar and Plancker are co-building a standard EIP-4824 protocol for cross-DAO communications, making it easy to create and maintain DAOs. We will help with the protocol's distribution in Asia."
+    "Content4": "DAOstar is building a standard  EIP-4824 protocol for cross-DAO communications, making it easy to create and maintain DAOs. We will help with the protocal's implementation and distribution especially in Asia"
   },
   "publicpool": {
     "Publicpool": "Public Pool",
-    "Content1": "Plancer's exploratory workstreams in public goods",
+    "Content1": "Plancker's exploratory workstreams in public goods",
     "Guardian": "Guardian",
     "Content2": "Lower the barrier of access to public Guardian services for everyone",
     "Bundler": "Bundler",
