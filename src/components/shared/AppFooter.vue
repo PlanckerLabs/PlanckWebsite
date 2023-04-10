@@ -55,6 +55,30 @@ export default {
           class="grid items-start justify-center grid-flow-col grid-rows-1 gap-20 mt-10 text-xl text-left"
         >
           <div class="flex-col">
+            <h6 class="mb-5 font-extrabold">{{ $t("footer.Developer") }}</h6>
+            <ul class="text-lg" style="line-height: 2em">
+              <li>
+                <a
+                  href="https://github.com/PlanckerLabs/PlanckWebsite"
+                  target="_blank"
+                  >GitHub</a
+                >
+              </li>
+            </ul>
+            <h6 class="mt-10 mb-3 font-extrabold">
+              {{ $t("footer.Resource") }}
+            </h6>
+            <ul class="text-lg" style="line-height: 1em">
+              <li>
+                <a
+                  href="https://www.figma.com/file/rQvmGNWSSrc79xYkcP9YjV/Plancker-%E7%89%A9%E6%96%99%E5%8D%8F%E4%BD%9C%E7%89%88?node-id=0-1&t=hFEVs4vcfTtB6yCU-0"
+                  target="_blank"
+                  >UI Kit</a
+                >
+              </li>
+            </ul>
+          </div>
+          <div class="flex-col">
             <h6 class="mb-5 font-extrabold">{{ $t("footer.Follow") }}</h6>
             <ul class="text-lg" style="line-height: 2em">
               <li>
@@ -228,7 +252,41 @@ export default {
             </a>
           </div>
         </div>
-        <div>
+        <div
+          class="grid items-center justify-center grid-flow-col grid-rows-1 py-10 text-xl border-b-2 gap-11 border-slate-600 max-[500px]:gap-5 max-[500px]:text-sm"
+        >
+          <div class="flex">
+            <p>{{ $t("footer.Developer") }} :</p>
+          </div>
+          <div class="flex">
+            <a
+              href="https://github.com/PlanckerLabs/PlanckWebsite"
+              target="_blank"
+            >
+              <img
+                class="w-12 h-12"
+                src="@/assets/images/github.png"
+                alt="github"
+              />
+            </a>
+          </div>
+          <div class="flex">
+            <p>{{ $t("footer.Resource") }} :</p>
+          </div>
+          <div class="flex">
+            <a
+              href="https://www.figma.com/file/rQvmGNWSSrc79xYkcP9YjV/Plancker-%E7%89%A9%E6%96%99%E5%8D%8F%E4%BD%9C%E7%89%88?node-id=0-1&t=hFEVs4vcfTtB6yCU-0"
+              target="_blank"
+            >
+              <img
+                class="w-14 h-14"
+                src="@/assets/images/Figma.webp"
+                alt="figma"
+              />
+            </a>
+          </div>
+        </div>
+        <div class="flex">
           <div class="flex-col">
             <h6 class="mb-5 font-extrabold">
               {{ $t("footer.AboutPlancker") }}
