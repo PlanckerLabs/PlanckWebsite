@@ -38,39 +38,7 @@ export default {
     <div class="flex px-1 py-10">
       <div
         class="flex items-center justify-around w-2/3 text-lg xl:text-2xl md:text-sm"
-      >
-        <div>{{ $t("poject.Contributor") }}</div>
-        <div class="flex items-center">
-          <a
-            class="flex items-center"
-            href="https://twitter.com/zengjiajun_eth"
-            target="_blank"
-          >
-            <img src="@/assets/images/polcker-items-cer3.svg" alt="cer3" />
-            <p class="pl-3">JiaJun</p>
-          </a>
-        </div>
-        <div>
-          <a
-            class="flex items-center"
-            href="https://twitter.com/jhfnetboy"
-            target="_blank"
-          >
-            <img src="@/assets/images/polcker-items-cer2.svg" alt="cer2" />
-            <p class="pl-3">Jhfnetboy</p>
-          </a>
-        </div>
-        <div>
-          <a
-            class="flex items-center"
-            href="https://twitter.com/cejay519"
-            target="_blank"
-          >
-            <img src="@/assets/images/polcker-items-cer1.svg" alt="cer1" />
-            <p class="pl-3">Cejay</p>
-          </a>
-        </div>
-      </div>
+      ></div>
       <div class="flex justify-end w-1/3">
         <a href="https://www.soulwallets.me/" target="_blank">
           <img

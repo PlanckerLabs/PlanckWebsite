@@ -75,47 +75,6 @@ export default {
             <i data-feather="chevron-right" class="feather-32"> </i>
           </div>
         </div>
-        <div class="px-8 pt-2 text-xl font-semibold text-left">
-          {{ $t("poject.Contributor") }}
-        </div>
-        <div class="flex justify-around w-full py-5 border-b border-black">
-          <div class="flex items-center text-lg xl:text-2xl">
-            <div
-              class="px-12 border-r border-black max-[623px]:px-3 max-[500px]:px-1"
-            >
-              <a
-                class="flex items-center max-[500px]:flex-col"
-                href="https://twitter.com/zengjiajun_eth"
-                target="_blank"
-              >
-                <img src="@/assets/images/polcker-items-cer3.svg" alt="cer3" />
-                <p class="pl-3">JiaJun</p>
-              </a>
-            </div>
-            <div
-              class="px-12 border-r border-black max-[623px]:px-3 max-[500px]:px-1"
-            >
-              <a
-                class="flex items-center max-[500px]:flex-col"
-                href="https://twitter.com/jhfnetboy"
-                target="_blank"
-              >
-                <img src="@/assets/images/polcker-items-cer2.svg" alt="cer2" />
-                <p class="pl-3">Jhfnetboy</p>
-              </a>
-            </div>
-            <div class="px-12 max-[623px]:px-3 max-[500px]:px-1">
-              <a
-                class="flex items-center max-[500px]:flex-col"
-                href="https://twitter.com/cejay519"
-                target="_blank"
-              >
-                <img src="@/assets/images/polcker-items-cer1.svg" alt="cer1" />
-                <p class="pl-3">Cejay</p>
-              </a>
-            </div>
-          </div>
-        </div>
         <div class="flex justify-around py-4">
           <a href="https://www.soulwallets.me/" target="_blank">
             <img
